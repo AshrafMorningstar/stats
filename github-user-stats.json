@@ -9,12 +9,12 @@
   "twitterUsername": "AMS_Morningstar",
   "websiteUrl": null,
   "createdAt": "2020-12-23T11:59:27Z",
-  "repoViews": 1090,
-  "linesOfCodeChanged": 100195368,
-  "linesAdded": 85485502,
-  "linesDeleted": 14709866,
-  "commitCount": 241929,
-  "totalCommits": 379951,
+  "repoViews": 1078,
+  "linesOfCodeChanged": 100195274,
+  "linesAdded": 85485390,
+  "linesDeleted": 14709884,
+  "commitCount": 241930,
+  "totalCommits": 379953,
   "totalPullRequests": 1090,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 130795349,
@@ -153,21 +153,21 @@
     }
   ],
   "forkCount": 3,
-  "starCount": 68,
+  "starCount": 69,
   "starsGiven": 71,
   "followers": 4,
   "following": 3,
   "repositoriesContributedTo": 11,
   "discussionsStarted": 2,
   "discussionsAnswered": 0,
-  "totalContributions": 82199,
+  "totalContributions": 82201,
   "contributionStats": {
     "longestStreak": 191,
-    "currentStreak": 18,
+    "currentStreak": 19,
     "mostActiveDay": "Saturday",
-    "averagePerDay": 44.82,
-    "averagePerWeek": 313.74,
-    "averagePerMonth": 1344.59,
+    "averagePerDay": 44.8,
+    "averagePerWeek": 313.57,
+    "averagePerMonth": 1343.89,
     "monthlyBreakdown": [
       {
         "month": "2020-12",
@@ -411,7 +411,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 523
+        "contributions": 525
       }
     ]
   },
@@ -425,7 +425,7 @@
     "activeRepos": 125,
     "reposWithStars": 38,
     "reposCreatedThisYear": 124,
-    "averageStarsPerRepo": 0.54
+    "averageStarsPerRepo": 0.55
   },
   "computedStats": {
     "totalRepos": 125,
@@ -437,7 +437,7 @@
     "activeRepos": 125,
     "reposWithStars": 38,
     "reposCreatedThisYear": 124,
-    "averageStarsPerRepo": 0.54,
+    "averageStarsPerRepo": 0.55,
     "languageCount": 22,
     "primaryLanguage": "CSS",
     "primaryLanguageThisYear": "CSS",
@@ -631,23 +631,23 @@
       "webdev",
       "webdevelopment"
     ],
-    "contributionsThisYear": 14468,
+    "contributionsThisYear": 14470,
     "contributionsLastYear": 9392,
-    "yearOverYearGrowth": 54.05,
+    "yearOverYearGrowth": 54.07,
     "mostProductiveMonth": {
       "month": "2025-11",
       "contributions": 9613
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 79914,
+    "totalCommitContributions": 79916,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 1089,
     "totalRepositoryContributions": 102,
     "totalPullRequestContributions": 1090,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 82199,
+      "totalContributions": 82201,
       "weeks": [
         {
           "contributionDays": [
@@ -9044,8 +9044,12 @@
               "date": "2025-12-25"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2025-12-26"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2025-12-27"
             }
           ]
         }
@@ -9056,14 +9060,14 @@
     {
       "name": "Mstar-Youtube-Auto-Upload-Bot",
       "description": "This comprehensive Python script, utilizing the powerful Selenium WebDriver, is meticulously designed to automate the process of uploading videos to your YouTube channel seamlessly.  This is a python/selenium script that can help you to upload videos in your youtube automatically.  By Ashraf Morningstar ",
-      "stars": 8,
+      "stars": 9,
       "forks": 1,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "Python",
       "topics": [],
-      "updatedAt": "2025-11-27T01:36:49Z",
+      "updatedAt": "2025-12-26T16:43:09Z",
       "createdAt": "2025-01-17T16:59:32Z"
     },
     {
@@ -9186,5 +9190,5 @@
   ],
   "closedIssues": 1083,
   "openIssues": 6,
-  "fetchedAt": 1766750464807
+  "fetchedAt": 1766836872848
 }
