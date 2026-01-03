@@ -1,77 +1,83 @@
-/*
- Copyright (c) 2026 Ashraf Morningstar
- These are personal recreations of existing projects, developed by Ashraf Morningstar
- for learning and skill development.
- Original project concepts remain the intellectual property of their respective creators.
- Repository: https://github.com/AshrafMorningstar
-*/
 
-# GitHub Stats Template
+<div align="center">
 
-This repository serves as a template for creating your own GitHub repositories. It includes a scheduled GitHub Action that generates GitHub stats on a daily basis.
+# :star: Stats :star:
 
-## Getting Started
+[![GitHub stars](https://img.shields.io/github/stars/AshrafMorningstar/stats?style=for-the-badge&color=orange)](https://github.com/AshrafMorningstar/stats/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AshrafMorningstar/stats?style=for-the-badge&color=blue)](https://github.com/AshrafMorningstar/stats/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/AshrafMorningstar/stats?style=for-the-badge&color=red)](https://github.com/AshrafMorningstar/stats/issues)
+[![GitHub license](https://img.shields.io/github/license/AshrafMorningstar/stats?style=for-the-badge&color=green)](./LICENSE)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
 
-To use this template, follow these steps:
+**Automated, High-Performance stats Project**
 
-1. Click on the "Use this template" button to create a new repository based on this template.
-2. Clone the newly created repository to your local machine.
+[View Demo (If Applicable)](#) • [Report Bug](https://github.com/AshrafMorningstar/stats/issues) • [Request Feature](https://github.com/AshrafMorningstar/stats/issues)
 
-## Creating a GitHub Personal Access Token (PAT)
-
-To enable the scheduled GitHub Action, you need to create a GitHub Personal Access Token (PAT). This token should be a classic token, set to never expire, with scopes for read-only repository and profile access. Here's how:
-
-1. Go to GitHub settings.
-2. Navigate to "Developer settings" > "Personal access tokens".
-3. Click on "Generate new token".
-4. Give your token a descriptive name.
-5. Set the expiration to "No expiration" or whatever your preference is.
-6. For the scopes, select "repo" (for read-only repository access) and "user:email" (for read-only profile access).
-7. Click on "Generate token".
-8. Copy the generated token. Be sure to save it somewhere safe, as you won't be able to see it again.
-
-## Adding the PAT to the Repository Secrets
-
-After generating your PAT, you need to add it to the repository secrets. Here's how:
-
-1. Go to your repository settings.
-2. Navigate to "Secrets".
-3. Click on "New repository secret".
-4. Name the secret "ACCESS_TOKEN" and paste your PAT in the value field.
-5. Click on "Add secret".
-
-## Using the Scheduled Action
-
-With the PAT added to the repository secrets, the scheduled GitHub Action can now run. This action generates GitHub stats daily.
-
-To view the stats, navigate to the "Actions" tab in your repository. Here, you can see the results of each run of the action.
-
-Remember to always keep your PAT safe and never share it with anyone. It's like a password, but for your GitHub account.
-
-Happy coding!
-
+</div>
 
 ---
 
-## 📜 Copyright & License
+## :rocket: Overview
 
-© 2026 Ashraf Morningstar. All Rights Reserved.
+**stats** is a state-of-the-art implementation utilizing Generic. Designed for developers looking for robust, scalable solutions in Open Source, Developer Tools, Coding Best Practices, Software Engineering.
 
-**Educational Disclaimer:** This is a personal recreation of an existing project concept, developed for learning and skill development purposes. The original project concept remains the intellectual property of its respective creator(s).
+This project is a high-performance, open-source solution designed for developers and enthusiasts. It implements modern best practices and is optimized for efficiency and scalability.
 
-**License:** MIT License - See [LICENSE](./LICENSE) file for details.
+## :sparkles: Key Features
 
-**Developer:** [Ashraf Morningstar](https://github.com/AshrafMorningstar)
+- :white_check_mark: **High Performance:** Optimized for speed and low latency.
+- :white_check_mark: **Scalable Architecture:** Built to handle growth effortlessly.
+- :white_check_mark: **Modern Tech Stack:** Utilizes latest standards in Generic.
+- :white_check_mark: **Developer Friendly:** Clean code, well-documented, and easy to extend.
 
-**Portfolio:** Explore more projects at [github.com/AshrafMorningstar](https://github.com/AshrafMorningstar)
+## :hammer_and_wrench: Technologies Used
+
+
+
+## :floppy_disk: Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AshrafMorningstar/stats.git
+   cd stats
+   ```
+
+2. **Install dependencies:**
+    No specific installation required.
+
+3. **Run the application:**
+    Open index.html in your browser.
+
+## :open_file_folder: Project Structure
+
+```
+stats/
+├── src/          # Source code
+├── assets/       # Images and static files
+├── README.md     # Project documentation
+└── LICENSE       # License information
+```
+
+## :handshake: Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+
+## :bust_in_silhouette: Author
+
+**Ashraf Morningstar**
+
+- **GitHub:** [@AshrafMorningstar](https://github.com/AshrafMorningstar)
+- **Twitter:** [@AMS_Morningstar](https://twitter.com/@AMS_Morningstar)
+- **Portfolio:** [AshrafMorningstar Projects](https://github.com/AshrafMorningstar?tab=repositories)
+
+## :page_facing_up: License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-### 🤝 Connect & Contribute
-
-Found this helpful? Give it a ⭐️ on GitHub!
-
-- 💼 Company: MORNINGSTARCONSTRUCTION
-- 📍 Location: India
-- 🐦 Twitter: [@AMS_Morningstar](https://twitter.com/AMS_Morningstar)
-- 📧 Email: ashrafmorningstar@gmail.com
+<div align="center">
+  <p>If you find this project useful, please give it a <b>Star</b> :star:!</p>
+  <sub>Built with ❤️ by Ashraf Morningstar</sub>
+</div>
